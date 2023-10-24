@@ -1,6 +1,8 @@
-### Conoce "To-do App" 🌟
+# ¿Qué es mi producto y para que sirve?
 
-"To-do App" es una aplicación diseñada para hacerte la vida más fácil. Olvídate de los métodos antiguos y desorganizados que solías usar. Con "To-do App", tendrás todas tus tareas, grandes o pequeñas, en un solo lugar.
+Es una aplicación diseñada para hacerte la vida más fácil. Olvídate de los métodos antiguos y desorganizados que solías usar. Con este To=do App, tendrás todas tus tareas, grandes o pequeñas, en un solo lugar.
+
+# ¿Cuáles son las funcionalidades más importantes y porque los usuarios las usarían?
 
 To-do App se caracteriza por su:
 
@@ -12,6 +14,4 @@ To-do App se caracteriza por su:
 
 5. **Tranquilidad asegurada:** ¿Terminaste algo? ¡Excelente! Elimina la tarea de tu lista con solo un clic. Así de fácil, así de limpio.
 
-### ¿Para Quién Es "To-do App"?
-
-¡Para todos! No importa si eres un estudiante, un trabajador a tiempo completo, un ama de casa, un freelancer, o incluso un súper organizado planificador de eventos. Cualquiera que necesite un poco de ayuda extra para mantener sus días en orden se beneficiará de "To-do App".
+To-do App es para todos! No importa si eres un estudiante, un trabajador a tiempo completo, un ama de casa, un freelancer, o incluso un súper organizado planificador de eventos. Cualquiera que necesite un poco de ayuda extra para mantener sus días en orden se beneficiará de esta aplicación.
